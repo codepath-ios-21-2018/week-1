@@ -1,0 +1,137 @@
+## existing apps
+- snapchat
+- facebook
+- stitchfix
+- spotify
+- wunderlist
+- amazon shopping
+- venmo
+- youtube
+- instagram
+- weheartit
+- iFunny
+- maplestory m
+- fivestars
+- Hungry Shark Evolution
+- I Love Hue
+- Uber
+- ParkMobile
+- Reddit
+- Poshmark
+- Sun Basket
+- Snapseed
+- Pinterest
+
+## evaluating top 5 existing 
+- venmo (productivity)
+    - mobile: 
+        - pay through phone only
+        - links to your debit card/bank account
+        - real-time
+    - story: 
+        - Allows users to pay back other people
+        - Some people would be suspicious of adopting this.
+    - market: 
+        - Can potentialy replace cash, credit, debit, checks, etc. 
+    - habit:
+        - use everytime you don't bring your wallet or card
+        - to pay people back
+    - scope: 
+        - Would be difficult to build by end of course. 
+        - need access to bank account and money (company partners?)
+        - Security issues.
+- snapchat (social)
+    - mobile:
+        - camera
+        - maps/location
+        - real-time notifications
+    - story:
+        - basic usage
+        - clear value
+        - very popular form of social media/communication
+    - market:
+        - mostly young adults and teenagers (large market)
+        - global user base
+        - target audience: everyone with a phone with camera
+    - habit:
+        - check app when notified of a message or picture
+        - check friend story posts
+        - look at connected sites
+    - scope:
+        - challenging because of multiple components
+            - facial recognition (face filters)
+            - augmented reality features
+            - snap map (geolocation)
+            - connected web apps (gify,buzzfeed,cosmo, etc.)
+        - basic photo messaging/editing could be practical for this class
+        - basic features are clearly defined
+- facebook (social)
+    - mobile: 
+        - maps/location
+        - camera
+        - audio
+    - story:
+        - Allows users to connect with one another
+    - market:
+        - Anyone can use it
+    - habit:
+        - can be addicting with all the features it offers
+        - to catch up with people/look at memes
+    - scope:
+        - requires large user base. 
+        
+- spotify (entertainment)
+    - mobile: 
+        - Valuable for people who are on the go. 
+    - story:
+        - Valuable for anyone who listens to music. 
+    - market: All ages, widespread.
+    - habit:
+        - easy to access music
+        - depends on how often you listen to music
+        - daily use for many. 
+    - scope:
+        - developed
+        - requires license agreements
+- uber (travel)
+    - mobile: 
+         - location
+         - maps
+    - story:
+        - Allows users to call for a ride
+        - Users can also sign up to be a driver to make some money
+    - market:
+        - large market, urban-based. 
+        - can be scaled up depending on geographic expansion
+    - habit:
+        - everytime ride needed, convenient
+        - Usage could be daily for some people, occasional to non-existent for others. 
+    - scope:
+        - simple idea, harder implementation
+        - uber drivers vs customers
+
+## new app ideas!!!!!
+- Outfit Design App
+    - Include men
+    - Based on seasonal trends
+- Grocery/meal planning
+    - log the groceries/ingredients 
+    - create meals out of inventory
+    - notify when out of item, add to shopping list
+- Garden Share
+     - local markets organize food donations
+- pet mingling/dating kinda thing
+    - like tinder but owner/dog comes as package
+    - go on dates but with dogs :^)
+- Blocking app for dancers
+    - organize formation/effects
+    - create/offer new moves and formations when out of ideas
+    - communication channel for dance groups (choreographers)
+
+## 3 best app ideas
+- Dance App
+- Meal Planning
+- Pets or outfits we can't decide yet. 
+
+**evaluate later
+
