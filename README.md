@@ -37,8 +37,7 @@
 ---
 
 ### Wireframes
-https://files.slack.com/files-pri/T0J064FCJ-FDJHY3BGC/image_from_ios.jpg
-https://files.slack.com/files-pri/T0J064FCJ-FDJNX0ZGA/image_from_ios.png
+
 
 ---
 
@@ -72,7 +71,7 @@ https://docs.google.com/presentation/d/1KhKyiPedPQaVkH2wq1cjCjCKzq5K3jYu2VMRXbky
    * User can see inventory
    * User can view shopping list
    * User can be given meal choices based on their tastes/diets/what they have
-   * ![](https://i.imgur.com/Md1u3dT.png)
+   * <img src="https://github.com/jentoobento/Meal-Planner-App-iOS/blob/master/images/Image%20from%20iOS.png" width=400>
 
  * Create
    * User can input/update inventory
@@ -100,18 +99,18 @@ https://docs.google.com/presentation/d/1KhKyiPedPQaVkH2wq1cjCjCKzq5K3jYu2VMRXbky
  * Home screen
    * Create meal
    * Calendar
-   * ![](https://i.imgur.com/4GQHaoA.jpg)
+   * <img src="https://github.com/jentoobento/Meal-Planner-App-iOS/blob/master/images/Image%20from%20iOS.jpg" width=400>
  * Saved Recipes
    * List of saved recipes (thumbnail)
-   * ![](https://i.imgur.com/mHFmm0l.jpg)
+   * <img src="https://github.com/jentoobento/Meal-Planner-App-iOS/blob/master/images/Image%20from%20iOS%20copy.jpg" width=400>
  * Inventory
    * Add to inventory list (Create)
    * Stream of inventory items
    * Sorting icon? For sorting by type or date added, etc.
-   * ![](https://i.imgur.com/f61Wt56.jpg)
+   * <img src="https://github.com/jentoobento/Meal-Planner-App-iOS/blob/master/images/Image%20from%20iOS%20copy%202.jpg" width=400>
  * Shopping Cart 
    * Add to grocery list (Create) 
    * Stream of grocery list
    * Buy on Amazon Fresh, Sprouts, Vons, Ralphs, etc. (InstaCart, Postmates, Uber Eats)
- * Menu (??)
+ * Settings
      * Account settings 
