@@ -37,7 +37,11 @@
 ---
 
 ### Wireframes
-
+<p float="left">
+<img src="https://github.com/jentoobento/Meal-Planner-App-iOS/blob/master/images/mealPlanner1.gif">
+<img src="https://github.com/jentoobento/Meal-Planner-App-iOS/blob/master/images/mealPlanner2.gif">
+<img src="https://github.com/jentoobento/Meal-Planner-App-iOS/blob/master/images/mealPlanner3.gif">
+</p>
 
 ---
 
