@@ -23,7 +23,7 @@
     - app mainly for consuming, but can also create when customizing meal options
 - Scope:
     - need large database of recipes
-    - It's possible to complete this app by the end of the program 
+    - It's possible to complete this app within a few months
 
 ---
 
@@ -48,9 +48,9 @@ https://docs.google.com/presentation/d/1KhKyiPedPQaVkH2wq1cjCjCKzq5K3jYu2VMRXbky
 
 ### Product Spec
 
-## 1. User Stories (Required and Optional)
+## 1. User Stories
 
-**Required Must-have Stories**
+**Must-have Stories**
 
  * User can plan out future meals
  * User can be given meal choices based on their tastes/diets/what they have
