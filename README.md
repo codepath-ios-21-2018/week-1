@@ -115,3 +115,10 @@ https://docs.google.com/presentation/d/1KhKyiPedPQaVkH2wq1cjCjCKzq5K3jYu2VMRXbky
    * Buy on Amazon Fresh, Sprouts, Vons, Ralphs, etc. (InstaCart, Postmates, Uber Eats)
  * Menu (??)
      * Account settings 
+     
+ ## 4. Wireframe Image
+   ![](https://imgur.com/qI2eZxk.jpg)
+ 
+ ## 5. Walkthrough
+ 
+ <img src="http://g.recordit.co/sgrgrWweOg.gif" width=200><br>
