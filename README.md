@@ -5,6 +5,13 @@
 - app will create possible meals made from inventory, and user can customize
 - notify when out of item, add to shopping list, or user can manually add items to shopping list and set reminders
 
+### App Walk-through
+
+<img src="http://g.recordit.co/JyCC6DuMx5.gif" width=200><br>
+
+### App Pitch Deck
+https://docs.google.com/presentation/d/18KfBrMTq7YfcvcRcFeG5J3sFsSw7HfCWQ8w9noppxbk/edit?usp=sharing
+
 ### App Idea Evaluation
 
 - Mobile:
