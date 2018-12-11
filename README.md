@@ -1,5 +1,7 @@
 ## MEAL PLANNER
 
+[![app pitch demo video](https://github.com/jentoobento/Meal-Planner-App-iOS/blob/master/images/videothumb.png)](https://youtu.be/rCqIU_oF1QE)
+
 ### App Description
 - log current groceries/ingredients at home, separate into categories such as dairy, produce, meat, seasoning/spices, etc.
 - app will create possible meals made from inventory, and user can customize
